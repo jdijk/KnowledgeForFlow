@@ -7,7 +7,7 @@
     <types>
         <members>KnowledgeCategories</members>
         <members>KnowledgeCategoriesFlowAction</members>
-        <members>KnwoledgeQuery</members>
+        <members>KnowledgeQuery</members>
         <name>ApexClass</name>
     </types>
     <version>47.0</version>
