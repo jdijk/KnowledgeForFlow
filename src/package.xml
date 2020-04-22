@@ -2,59 +2,13 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>JVDKnowledgeCategoryTreeFlowComponent</members>
-        <members>formattedRichTextFSC</members>
-        <members>JVDIBANInput</members>
-        <members>JVDYouTubeFSC</members>
-        <members>loadWebPage</members>
-        <members>playSound</members>
-        <members>richTextInputFSC</members>
-        <members>showToast</members>
-        <members>updateScreen</members>
-        <members>JVDLookupComponentFSC</members>
-        <members>JVDSignatureFooterFSC</members>
-        <members>JVDSaveSignature</members>
-        <members>JVDSignatureFSC</members>
-        <members>JVDSignatureSaveResult</members>
-        <members>navigateToRecord</members>
-        <members>loadWebPage</members>
-        <members>getNBARecommendationsFSC</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
         <members>KnowledgeCategories</members>
         <members>KnowledgeCategoriesFlowAction</members>
-       <members>GetRandomNumber</members>
-        <members>GetRandomNumberTest</members>
-        <members>LookupSearchComponentController</members>
-        <members>JVDSignatureCapture</members>
-        <members>JVDSignatureCaptureTest</members>
-        <members>String_Encode</members>
-        <members>String_EncodeTest</members>
-        <members>String_Numeralize</members>
-        <members>String_NumeralizeTest</members>
-        <members>GetRecordLockStatus</members>
-        <members>GetRecordLockStatusTest</members>
-        <members>UnlockRecord</members>
-        <members>UnlockRecordTest</members>
+        <members>KnwoledgeQuery</members>
         <name>ApexClass</name>
-    </types>
-    <types>
-        <members>CustomLabels</members>
-        <name>CustomLabels</name>
-    </types>
-    <types>
-        <members>IBANJS</members>
-        <members>JVDSignature</members>
-        <name>StaticResource</name>
-    </types>
-    <types>
-        <members>Unlock_Approval_Record</members>
-        <members>Unlock_Record</members>
-        <name>Flow</name>
-    </types>
-    <types>
-        <members>Account.Unlock_Record</members>
-        <name>QuickAction</name>
     </types>
     <version>47.0</version>
 </Package>
