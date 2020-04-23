@@ -91,7 +91,7 @@ global class KnowledgeQuery {
     
     global class KnowledgeQueryResult {
         
-        KnowledgeQueryResult()
+        global KnowledgeQueryResult()
         {
             KnowledgeIds = new List<String>();
         }
