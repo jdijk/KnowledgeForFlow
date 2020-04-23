@@ -54,7 +54,7 @@ global class KnowledgeQuery {
     
       global class KnowledgeQueryRequest {
           
-         KnowledgeQueryRequest()
+        global KnowledgeQueryRequest()
         {
           	SearchFieldName1 = '';
             SearchFieldName2 = '';
